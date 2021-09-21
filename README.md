@@ -114,4 +114,5 @@
 
 <br />
 
-<a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&hide_border=true&theme=tokyonight" /></a>
