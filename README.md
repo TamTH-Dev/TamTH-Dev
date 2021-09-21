@@ -1,6 +1,6 @@
-## Hello world, I'm Tam https://www.reddit.com/user/Madlife_S
+## Hello world, I'm Tam
 
-## 🙋 About Me
+### 🙋 About Me
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current Goals: Create more Open Source projects for community
@@ -25,6 +25,7 @@
 [<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
 [<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
+[<img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />][github]
 [<img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
 [<img align="left" alt="Redux" width="28px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
 [<img align="left" alt="Vue" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
@@ -34,10 +35,8 @@
 [<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
 [<img align="left" alt="Azure" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
 [<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
-[<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][github]
 [<img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
 [<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
-[<img align="left" alt="Telegram" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
 
 <br />
 <br />
