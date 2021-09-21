@@ -24,44 +24,76 @@
 ### 🛸 Languages and Tools:
 
 <p>
-  [<img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
-  [<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
-  [<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
-  [<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
-  [<img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
-  [<img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />][github]
-  [<img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
-  [<img align="left" alt="Redux" width="28px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
-  [<img align="left" alt="Vue" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
-  [<img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][github]
-  [<img align="left" alt="ExpressJS" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
-  [<img align="left" alt="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
-  [<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
-  [<img align="left" alt="Azure" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
-  [<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
-  [<img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
-  [<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
+  <a href="https://neovim.io/" target="_blank">
+    <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />]
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  </a href="">
+  <a href="https://redux.js.org/" target="_blank">
+    <img align="left" alt="Redux" width="28px" src="https://img.icons8.com/color/48/000000/redux.png" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img align="left" alt="Vue" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img align="left" alt="ExpressJS" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank">
+    <img align="left" alt="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank">
+    <img align="left" alt="Azure" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />
+  </a>
+  <a href="https://archlinux.org/" target="_blank">
+    <img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />
+  </a>
+  <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">
+    <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
+  </a>
 </p>
 
 <p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
 ## 📊 Other information:
 
-<a href="https://github.com/TamTH-Dev">
+<a href="https://github.com/TamTH-Dev" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
 </a>
-<a href="https://github.com/TamTH-Dev">
+<a href="https://github.com/TamTH-Dev" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <br />
 
-<a href="https://github.com/TamTH-Dev"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 [twitter]: https://twitter.com/Madlife48902037
 [linkedin]: https://www.linkedin.com/in/tam-tran-11a6ba1a1
 [instagram]: https://www.instagram.com/madlife_th
 [reddit]: https://www.reddit.com/user/Madlife_S
 [facebook]: https://www.facebook.com/profile.php?id=100005755451639
-[github]: https://github.com/TamTH-Dev 
