@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current Goals: Create more Open Source projects for community
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to sing and play sports
 
 ### Connect with me:
@@ -17,7 +18,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][github]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][github]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][github]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
+<!-- [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][github] -->
 
 
 
