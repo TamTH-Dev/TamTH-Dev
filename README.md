@@ -23,26 +23,25 @@
 
 ### 🛸 Languages and Tools:
 
-[<img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
-[<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
-[<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
-[<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
-[<img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
-[<img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />][github]
-[<img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
-[<img align="left" alt="Redux" width="28px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
-[<img align="left" alt="Vue" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
-[<img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][github]
-[<img align="left" alt="ExpressJS" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
-[<img align="left" alt="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
-[<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
-[<img align="left" alt="Azure" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
-[<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
-[<img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
-[<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
-
-<br />
-<br />
+<p>
+  [<img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
+  [<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
+  [<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
+  [<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
+  [<img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
+  [<img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />][github]
+  [<img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
+  [<img align="left" alt="Redux" width="28px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
+  [<img align="left" alt="Vue" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
+  [<img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][github]
+  [<img align="left" alt="ExpressJS" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
+  [<img align="left" alt="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
+  [<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
+  [<img align="left" alt="Azure" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
+  [<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
+  [<img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
+  [<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
+</p>
 
 <p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
