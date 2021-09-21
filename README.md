@@ -4,7 +4,10 @@
 <h3 align="center">
   My dream is becoming a great Full Stack Developer.
   <br />
-  <a href="https://github.com/TamTH-Dev?tab=followers"><img src="https://img.shields.io/github/followers/TamTH-Dev?label=Followers&style=social" alt="GitHub Badge"></a>
+  <br />
+  <div>
+    <a href="https://github.com/TamTH-Dev?tab=followers"><img src="https://img.shields.io/github/followers/TamTH-Dev?label=Followers&style=social" alt="GitHub Badge"></a>
+  </div>
 </h3>
 
 
