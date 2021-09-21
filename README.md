@@ -101,15 +101,15 @@
 <br />
 <br />
 
-<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
 ## 📊 Other information:
 
 <a href="https://github.com/TamTH-Dev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
 </a>
 <a href="https://github.com/TamTH-Dev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <br />
