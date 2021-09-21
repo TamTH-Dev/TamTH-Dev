@@ -37,10 +37,11 @@
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
 
 <br />
+<br />
 
 ### Other information:
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&theme=dark&hide_langs_below=1" />][github]
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&theme=dark&line_height=27" alt="Madlife's github stats"/>][github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&theme=react&hide_border=true&bg_color=0D1117" />][github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Madlife's github stats"/>][github]
 
 
 
