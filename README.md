@@ -39,9 +39,10 @@
 <br />
 <br />
 
-### Other information:
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&theme=react&hide_border=true&bg_color=0D1117" />][github]
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Madlife's github stats"/>][github]
+## Other information:
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />][github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&langs_count=8&count_private=true&layout=compac&theme=react&hide_border=true&bg_color=0D1117" alt="Madlife's github stats"/>][github]
 
 
 
