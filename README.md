@@ -1,12 +1,11 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 ![banner.png](./github-banner.png)
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
-<div align="center">
+<h3 align="center">
   My dream is becoming a great Full Stack Developer.
-  <p align="center">
-    <a href="https://github.com/TamTH-Dev?tab=followers"><img src="https://img.shields.io/github/followers/TamTH-Dev?label=Followers&style=social" alt="GitHub Badge"></a>
-  </p>
-</div>
+  <br />
+  <a href="https://github.com/TamTH-Dev?tab=followers"><img src="https://img.shields.io/github/followers/TamTH-Dev?label=Followers&style=social" alt="GitHub Badge"></a>
+</h3>
 
 
 ### 🙋 About Me
@@ -40,7 +39,7 @@
     <img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />
   </a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />]
+    <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />
