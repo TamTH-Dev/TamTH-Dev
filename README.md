@@ -9,35 +9,35 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Reddit" width="22px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />][reddit]
+[<img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Reddit" width="32px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />][reddit]
 
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
-[<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][github]
-[<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
-[<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />][github]
-[<img align="left" alt="ArchLinux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
-[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
+[<img align="left" alt="Neovim" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
+[<img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
+[<img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png" />][github]
+[<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
+[<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][github]
+[<img align="left" alt="React" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png" />][github]
+[<img align="left" alt="Redux" width="32px" src="https://img.icons8.com/color/48/000000/redux.png" />][github]
+[<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
+[<img align="left" alt="Node.js" width="32px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][github]
+[<img align="left" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
+[<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
+[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
+[<img align="left" alt="Azure" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
+[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][github]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][github]
+[<img align="left" alt="ArchLinux" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
+[<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
+[<img align="left" alt="Telegram" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
 
 <br />
 <br />
