@@ -18,17 +18,21 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][github]
+[<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][github]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][github]
+[<img align="left" alt="ArchLinux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
-<!-- [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][github] -->
+[<img align="left" alt="Zsh" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/zsh/zsh.png" />][github]
 
 
 
