@@ -7,16 +7,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to sing and play sports
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -38,19 +34,15 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
 
-<br />
-<br />
-
 ## Other information:
 
-<p align="center">
-  <a href="https://github.com/TamTH-Dev">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
-  </a>
-  <a href="https://github.com/TamTH-Dev">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+<a href="https://github.com/TamTH-Dev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
+</a>
+<a href="https://github.com/TamTH-Dev">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
