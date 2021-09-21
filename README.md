@@ -20,11 +20,23 @@
 
 ### 🚀 Connect with me:
 
-[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Reddit" width="32px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />][reddit]
-[<img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+<p align="left">
+  <a href="https://twitter.com/Madlife48902037" target="_blank">
+    <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/tam-tran-11a6ba1a1" target="_blank">
+    <img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  </a>
+  <a href="https://www.instagram.com/madlife_th" target="_blank">
+    <img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  </a>
+  <a href="https://www.reddit.com/user/Madlife_S" target="_blank">
+    <img align="left" alt="Reddit" width="32px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005755451639" target="_blank">
+    <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
+</p>
 
 <br />
 <br />
@@ -103,9 +115,3 @@
 <br />
 
 <a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-[twitter]: https://twitter.com/Madlife48902037
-[linkedin]: https://www.linkedin.com/in/tam-tran-11a6ba1a1
-[instagram]: https://www.instagram.com/madlife_th
-[reddit]: https://www.reddit.com/user/Madlife_S
-[facebook]: https://www.facebook.com/profile.php?id=100005755451639
