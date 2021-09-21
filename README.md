@@ -1,13 +1,16 @@
-## Hello world, I'm Tam
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+![banner.png](./github-banner.png)
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
+<h3 align="center">My dream is becoming a great Full Stack Developer.</h3>
 
 ### 🙋 About Me
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Current Goals: Create more Open Source projects for community
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to sing and play sports
+- 🥅 Current goals is creating more Open Source projects for community and apply for a good job
+- 🐧 I am very interested in ricing linux, all of my linux ricing availables at **[my dotfiles](https://github.com/TamTH-Dev/dotfiles)** 
+- 🏁 I also love to sing and play sports
 
-### Connect with me:
+### 🚀 Connect with me:
 
 [<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
@@ -18,7 +21,7 @@
 <br />
 <br />
 
-### 🚀 Languages and Tools:
+### 🛸 Languages and Tools:
 
 [<img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />][github]
 [<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5.png" />][github]
@@ -39,9 +42,13 @@
 [<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
 
 <br />
+
+<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+
+<br />
 <br />
 
-## Other information:
+## 📊 Other information:
 
 <a href="https://github.com/TamTH-Dev">
   <img src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madlife's github stats"/>
@@ -52,7 +59,7 @@
 
 <br />
 
-<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+<a href="https://github.com/TamTH-Dev"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 [twitter]: https://twitter.com/Madlife48902037
