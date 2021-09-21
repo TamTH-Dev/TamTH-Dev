@@ -1,7 +1,13 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 ![banner.png](./github-banner.png)
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
-<h3 align="center">My dream is becoming a great Full Stack Developer.</h3>
+<div align="center">
+  My dream is becoming a great Full Stack Developer.
+  <p align="center">
+    <a href="https://github.com/TamTH-Dev?tab=followers"><img src="https://img.shields.io/github/followers/TamTH-Dev?label=Followers&style=social" alt="GitHub Badge"></a>
+  </p>
+</div>
+
 
 ### 🙋 About Me
 
@@ -23,7 +29,7 @@
 
 ### 🛸 Languages and Tools:
 
-<p>
+<p align="left">
   <a href="https://neovim.io/" target="_blank">
     <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
   </a>
@@ -76,6 +82,8 @@
     <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
   </a>
 </p>
+
+<br />
 
 <p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
