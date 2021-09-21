@@ -1,6 +1,6 @@
 ### Hello world, I'm Tam 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current Goals: Create more Open Source projects for community
