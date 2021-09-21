@@ -24,6 +24,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][github]
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />][github]
 [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />][github]
@@ -34,6 +35,14 @@
 [<img align="left" alt="ArchLinux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />][github]
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/telegram/telegram.png" />][github]
+
+<br />
+
+### Other information:
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&theme=dark&hide_langs_below=1" />][github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&theme=dark&line_height=27" alt="Madlife's github stats"/>][github]
+
+
 
 
 
