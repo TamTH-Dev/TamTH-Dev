@@ -106,13 +106,12 @@
 ## 📊 Other information:
 
 <a href="https://github.com/TamTH-Dev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
 </a>
 <a href="https://github.com/TamTH-Dev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
 </a>
 
 <br />
 
-<!-- <a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<a href="https://github.com/TamTH-Dev" target="_blank"><img alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/TamTH-Dev" target="_blank"><img align="center" alt="madlife's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=24283B&color=FF9E64&line=2AC3DE&point=C0CAF5&hide_border=true" /></a>
