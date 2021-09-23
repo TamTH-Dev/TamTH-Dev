@@ -114,7 +114,7 @@
   <br />
 
   <a href="https://github.com/TamTH-Dev" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
   </a>
 </p>
 
