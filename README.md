@@ -92,9 +92,6 @@
   <a href="https://archlinux.org/" target="_blank">
     <img align="left" alt="ArchLinux" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" />
   </a>
-  <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">
-    <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
-  </a>
 </p>
 
 <br />
@@ -103,7 +100,6 @@
 
 <!-- <p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=tokyonight&hide_border=true"/></p> -->
 
-<br />
 <br />
 
 ## 📊 Other information:
