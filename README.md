@@ -88,7 +88,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
+  <img width="45%" src="https://activity-graph.herokuapp.com/graph?username=TamTH-Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="madlife's contribution graph" />
 </p>
