@@ -27,15 +27,12 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/Madlife_S" target="_blank">
-    <img align="left" alt="Reddit" width="32px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
+    <img src="https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/tamth.dev" target="_blank">
-    <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    <img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
-<br />
-<br />
 
 ## ⚡ Tech Stack
 
