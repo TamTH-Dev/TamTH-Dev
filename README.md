@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
 <h3 align="center">
-  <!-- My dream is becoming a great Full Stack Developer. -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&width=600&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&width=544&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
   <br />
   <br />
   <div>
@@ -56,7 +55,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Lua](https://img.shields.io/badge/lua-00007C?style=for-the-badge&logo=lua&logoColor=white)
 
-### 🖥️ Libraries & Framework
+### 👑 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.JS-6565C9?style=for-the-badge&logo=next.js&logoColor=white)
@@ -72,7 +71,7 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0468D6?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗳️ Tools & Platform
+### 🪄 Tools & Platform
 
 ![Neovim](https://img.shields.io/badge/Neovim-20232A?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
