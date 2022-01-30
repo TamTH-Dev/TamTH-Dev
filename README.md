@@ -10,6 +10,9 @@
   </div>
 </h3>
 
+
+## 🔮 Basic Information
+
 ### 🙋 About Me
 
 - 🌱 I’m currently learning everything 🤣
@@ -27,16 +30,22 @@
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/Madlife_S" target="_blank">
-    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
+  <a href="mailto:tamth.dev@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-DD443A?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+  <a href="https://portfolio-madlife.vercel.app">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
   <a href="https://www.facebook.com/tamth.dev" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-0E90F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0E90F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ## ⚡ Tech Stack
 
-### 🛸 Languages:
+### 🛸 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,7 +74,7 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Stats:
+## 📊 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
