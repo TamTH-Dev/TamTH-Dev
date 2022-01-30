@@ -96,27 +96,14 @@
 </p>
 
 <br />
-<br />
-<!-- <br /> -->
 
-<!-- <p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&theme=tokyonight&hide_border=true"/></p> -->
-
-<br />
-
-## 📊 Other information:
+## 📊 Stats:
 
 <p align="center">
-  <a width="48%" href="https://github.com/TamTH-Dev" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
-  </a>
-  <a width="48%" href="https://github.com/TamTH-Dev" target="_blank">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
 </p>
-  
-<br />
-<br />
-
+ 
 <p align="center">
   <a href="https://github.com/TamTH-Dev" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
