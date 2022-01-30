@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&width=544&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23CDD9E5&size=18&duration=8000&center=true&vCenter=true&width=544&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
   <br />
   <br />
   <div>
