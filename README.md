@@ -10,7 +10,6 @@
   </div>
 </h3>
 
-
 ## 🔮 Basic Information
 
 ### 🙋 About Me
@@ -32,18 +31,16 @@
   <a href="https://www.reddit.com/user/Madlife_S" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
-  <a href="mailto:tamth.dev@gmail.com">
+  <a href="mailto:tamth.dev@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-DD443A?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-  <a href="https://portfolio-madlife.vercel.app">
+  <a href="https://portfolio-madlife.vercel.app" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="https://www.facebook.com/tamth.dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0E90F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
-<br />
 
 ## ⚡ Tech Stack
 
@@ -60,18 +57,18 @@
 ### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-6565C9?style=for-the-badge&logo=next.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-42B983?style=for-the-badge&logo=vue.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-010101?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.JS-6565C9?style=for-the-badge&logo=next.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.JS-42B983?style=for-the-badge&logo=vue.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.JS-010101?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-6565C9?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chakra_UI](https://img.shields.io/badge/Chakra_UI-6565C9?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-0468D6?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0468D6?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -82,23 +79,16 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0162CC?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0162CC?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-<br />
 
 ## 📊 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
-</p>
- 
-<p align="center">
-  <a href="https://github.com/TamTH-Dev" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
 </p>
