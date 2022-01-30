@@ -1,5 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
 ![banner.png](./github-banner.png)
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
 <h3 align="center">
   My dream is becoming a great Full Stack Developer.
@@ -10,12 +12,11 @@
   </div>
 </h3>
 
-
 ### 🙋 About Me
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current goals is creating more Open Source projects for community and apply for a good job
-- 🐧 I am very interested in ricing linux, all of my linux ricing availables at **[my dotfiles](https://github.com/TamTH-Dev/dotfiles)** 
+- 🐧 I am very interested in ricing linux, all of my linux ricing availables at **[my dotfiles](https://github.com/TamTH-Dev/dotfiles)**
 - 🏁 I also love to sing and play sports
 
 ### 🚀 Connect with me:
@@ -105,13 +106,18 @@
 ## 📊 Other information:
 
 <p align="center">
-  <a href="https://github.com/TamTH-Dev" target="_blank">
+  <a width="48%" href="https://github.com/TamTH-Dev" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
   </a>
+  <a width="48%" href="https://github.com/TamTH-Dev" target="_blank">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TamTH-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+  </a>
+</p>
   
-  <br />
-  <br />
+<br />
+<br />
 
+<p align="center">
   <a href="https://github.com/TamTH-Dev" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamTH-Dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="madlife's top languages" />
   </a>
