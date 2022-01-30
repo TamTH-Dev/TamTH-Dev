@@ -4,7 +4,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madlife</h1>
 <h3 align="center">
   <!-- My dream is becoming a great Full Stack Developer. -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
+  <img width="80%" height="auto" src="https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&lines=My+dream+is+becoming+a+great+Full+Stack+Developer." />
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDD9E5&size=18&vCenter=true&lines=My+dream+is+becoming+a+great+Full+Stack+Developer.)](https://git.io/typing-svg) -->
   <br />
   <br />
