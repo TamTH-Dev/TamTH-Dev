@@ -21,16 +21,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tam-tran-11a6ba1a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Madlife48902037" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/Madlife_S" target="_blank">
-    <img src="https://img.shields.io/badge/reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white" />
+    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/tamth.dev" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/facebook-0E90F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
